@@ -1,0 +1,23 @@
+Timestamp,API_URL,Status_Code,Response_Time_ms
+2026-05-16 09:24:55.975364,https://jsonplaceholder.typicode.com/posts,200,2926.68
+2026-05-16 09:25:08.099169,https://jsonplaceholder.typicode.com/posts,200,2078.44
+2026-05-16 09:25:20.755219,https://jsonplaceholder.typicode.com/posts,200,2648.63
+2026-05-16 09:25:33.585889,https://jsonplaceholder.typicode.com/posts,200,2807.9
+2026-05-16 09:25:45.000719,https://jsonplaceholder.typicode.com/posts,200,1407.13
+2026-05-16 09:25:56.316522,https://jsonplaceholder.typicode.com/posts,200,1290.85
+2026-05-16 09:36:42.342104,https://jsonplaceholder.typicode.com/posts,200,1982.93
+2026-05-16 09:36:54.434858,https://jsonplaceholder.typicode.com/posts,200,2085.49
+2026-05-16 09:37:06.021474,https://jsonplaceholder.typicode.com/posts,200,1579.33
+2026-05-16 09:37:18.086808,https://jsonplaceholder.typicode.com/posts,200,2057.93
+2026-05-16 09:37:30.166937,https://jsonplaceholder.typicode.com/posts,200,2072.37
+2026-05-16 09:37:42.550602,https://jsonplaceholder.typicode.com/posts,200,2377.56
+2026-05-16 09:37:55.668742,https://jsonplaceholder.typicode.com/posts,200,3109.83
+2026-05-16 09:38:08.190352,https://jsonplaceholder.typicode.com/posts,200,2513.27
+2026-05-16 09:38:19.855882,https://jsonplaceholder.typicode.com/posts,200,1657.75
+2026-05-16 09:38:32.748159,https://jsonplaceholder.typicode.com/posts,200,2884.26
+2026-05-16 09:38:45.130488,https://jsonplaceholder.typicode.com/posts,200,2374.62
+2026-05-16 09:38:57.692091,https://jsonplaceholder.typicode.com/posts,200,2552.54
+2026-05-16 09:39:10.417921,https://jsonplaceholder.typicode.com/posts,200,2719.62
+2026-05-16 09:39:22.968159,https://jsonplaceholder.typicode.com/posts,200,2543.62
+2026-05-16 09:39:34.813139,https://jsonplaceholder.typicode.com/posts,200,1837.33
+2026-05-16 09:39:46.401815,https://jsonplaceholder.typicode.com/posts,200,1581.39
